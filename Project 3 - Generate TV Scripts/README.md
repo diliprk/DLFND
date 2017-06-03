@@ -1,4 +1,6 @@
-In this project we automate a generation of a TV script for an episode of _The Simpsons_ TV show.
+In this project we automate the generation of a TV script for a scene in a TV show using a sample dataset.
+We wil generate our own _Simpsons_ TV scripts using RNNs. A part of the Simpsons dataset of scripts from 27 seasons is provided.
+The Neural Network you'll build will generate a new TV script for a scene at *Moe's Tavern.
 
 ### Concepts Used:
  - Recurrent Neural Networks
